@@ -3,7 +3,7 @@
 # Original accessed in July 2015 by Simon Sigurdhsson.
 # https://github.com/urdh/blog/blob/gh-pages/validate.rb
 #
-# Modifications in July 2015 by Brandon Amos <http://bamos.github.io>.
+# Modifications in July 2020 by Swaminathan Gurumurthy <http://swami1995.github.io>.
 # https://github.com/bamos/bamos.github.io/blob/master/validate.rb
 
 require 'rubygems'

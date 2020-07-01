@@ -1,46 +1,40 @@
- I am a research scientist at <b>Facebook AI (FAIR)</b> in NYC and broadly study foundational topics and applications in <b>machine learning</b> (sometimes deep) and <b>optimization</b> (sometimes convex), including reinforcement learning, computer vision, language, statistics, and theory. I have a Ph.D. from <b>Carnegie Mellon University</b> and was advised by [Zico Kolter](http://zicokolter.com/) and supported by an <b>NSF graduate research fellowship.</b> My thesis is on [Differentiable Optimization-Based Modeling for Machine Learning](https://github.com/bamos/thesis). My publications are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=d8gdZR4AAAAJ) and my open source contributions can be found on [my Github profile](https://github.com/bamos). I have also worked on <b>reinforcement learning</b> during an internship with [Nando de Freitas](https://www.cs.ubc.ca/~nando/) and [Misha Denil](http://mdenil.com/) at <b>DeepMind</b> in 2017 and on vision with [Vladlen Koltun](http://vladlen.info) at <b>Intel Labs</b> in 2018. <br><br>
+ I am a first year PhD student at the Robotics Institute at CMU and am broadly interested in machine learning problems faced by robotics systems. I like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2019</td>
+    <td class="col-md-3">June 2020 - Present</td>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
+        <strong>Ph.D. in Robotics Research</strong>
           (0.00/0.00)
         <br>
       Carnegie Mellon University
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2016</td>
+    <td class="col-md-3">Aug 2017 - Dec 2019</td>
     <td>
-        <strong>M.S. in Computer Science</strong>
-          (0.00/0.00)
+        <strong>M.S. in Robotics Research</strong>
+          (4.10/4.33)
         <br>
       Carnegie Mellon University
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2011 - May 2014</td>
+    <td class="col-md-3">July 2013 - May 2017</td>
     <td>
-        <strong>B.S. in Computer Science</strong>
-          (3.99/4.00)
+        <strong>B.S. in Electrical Engineering</strong>
+          (8.99/10.00)
         <br>
-      Virginia Tech
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">Aug 2007 - May 2011</td>
-    <td>
-      Northside High School (Roanoke, Virginia)
+      IIT-BHU Varanasi
     </td>
   </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Experience
+<!-- ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>May 2019 - Present</td>
@@ -90,10 +84,10 @@
 </tr>
 <tr>
 </tr>
-</table>
+</table> -->
 
 
-## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> Publications and Selected Projects <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
