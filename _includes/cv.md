@@ -241,7 +241,7 @@ On policy methods are known to exhibit stable behavior and off-policy methods ar
 </tr>
 
 <tr>
-<td class="col-md-3"><img src="images/publications/interpretability2018.png"/>> </td>
+<td class="col-md-3"><img src="images/publications/interpretability2018.png"/> </td>
 <td>
     <strong> Exploring interpretability in Atari Games for RL policies using Counterfactuals </strong><br>
     <strong>Swaminathan Gurumurthy</strong>, Akshat Agarwal, Prof. Katia Sycara <br>
