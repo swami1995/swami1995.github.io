@@ -155,7 +155,7 @@ We address a fundamental problem with Neural Network based point cloud completio
 <td class="col-md-3"><a href='https://arxiv.org/abs/1805.05356' target='_blank'><img src="images/publications/compass2018.png"/></a> </td>
 <td>
     <strong>Exploiting Data and Human Knowledge for Predicting Wildlife Poaching</strong><br>
-    <strong>Swaminathan Gurumurthy*</strong>, Lantao Yu, Chenyan Zhang, Yongchao Jin, Weiping Li, Haidong Zhang, Fei Fang<br>
+    <strong>Swaminathan Gurumurthy</strong>, Lantao Yu, Chenyan Zhang, Yongchao Jin, Weiping Li, Haidong Zhang, Fei Fang<br>
     COMPASS 2019 <strong>[Oral talk]</strong><br>
 
     [4] 
