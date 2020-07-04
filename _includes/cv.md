@@ -207,7 +207,7 @@ We test various methods to increase the sample efficiency of adversarial black b
 
 
 <tr>
-<td class="col-md-3"><img src="images/publications/slam.png"/></a> </td>
+<td class="col-md-3"><img src="images/publications/slam.png"/></td>
 <td>
     <strong> Visual SLAM based SfM for Boreholes </strong><br>
     <strong>Swaminathan Gurumurthy</strong>, Tat-Jun Chin and Ian Reid <br>
@@ -223,7 +223,7 @@ Built a package to construct a sparse map and camera trajectory using SIFT featu
 </tr>
 
 <tr>
-<td class="col-md-3"><img src="images/publications/explore2018.png"/></a> </td>
+<td class="col-md-3"><img src="images/publications/explore2018.png"/> </td>
 <td>
     <strong> Off-on policy learning </strong><br>
     <strong>Swaminathan Gurumurthy</strong>, Bhairav Mehta, Anirudh Goyal and Yoshua Bengio <br>
@@ -241,7 +241,7 @@ On policy methods are known to exhibit stable behavior and off-policy methods ar
 </tr>
 
 <tr>
-<td class="col-md-3"><img src="images/publications/interpretability2018.png"/></a> </td>
+<td class="col-md-3"><img src="images/publications/interpretability2018.png"/>> </td>
 <td>
     <strong> Exploring interpretability in Atari Games for RL policies using Counterfactuals </strong><br>
     <strong>Swaminathan Gurumurthy</strong>, Akshat Agarwal, Prof. Katia Sycara <br>
