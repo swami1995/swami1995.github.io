@@ -17,7 +17,7 @@
     <td class="col-md-3">Aug 2017 - Dec 2019</td>
     <td>
         <strong>M.S. in Robotics Research</strong>
-          (4.10/4.33)
+          (4.09/4.33)
         <br>
       Carnegie Mellon University
     </td>
