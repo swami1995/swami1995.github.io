@@ -1,4 +1,4 @@
- I am a first year PhD student at the Robotics Institute at CMU and am broadly interested in machine learning problems faced by robotics systems. I like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
+ I am a first year PhD student at the Robotics Institute at CMU and am broadly interested in machine learning problems faced by robotics systems. I like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -87,42 +87,27 @@
 </table> -->
 
 
-## <i class="fa fa-chevron-right"></i> Publications and Selected Projects <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> Publications and Selected Projects <i class="fa fa-code-fork" aria-hidden="true"></i>
 
-<a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" class="btn btn-primary" style="padding: 0.3em;">
+<a href="https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en&oi=sra" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2020differentiable.png"/></a> </td>
+<td class="col-md-3"><a href='https://arxiv.org/abs/1911.04024' target='_blank'><img src="images/publications/mame2019.png"/></a> </td>
 <td>
-    <strong>The Differentiable Cross-Entropy Method</strong><br>
-    <strong>B. Amos</strong> and D. Yarats<br>
-    ICML 2020<br>
+    <strong>MAME : Model Agnostic Meta Exploration</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Sumit Kumar, Katia Sycara<br>
+    CoRL 2019<br>
     
     [1] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
+[<a href='https://arxiv.org/abs/1909.12830' 
+    target='_blank'>pdf</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
     
-<div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1">
-We study the Cross-Entropy Method (CEM) for the non-convex
-optimization of a continuous and parameterized
-objective function and introduce a differentiable
-variant (DCEM) that enables us to differentiate the
-output of CEM with respect to the objective
-function's parameters. In the machine learning
-setting this brings CEM inside of the end-to-end
-learning pipeline where this has otherwise been
-impossible. We show applications in a synthetic
-energy-based structured prediction task and in
-non-convex continuous control. In the control
-setting we show on the simulated cheetah and walker
-tasks that we can embed their optimal action
-sequences with DCEM and then use policy optimization
-to fine-tune components of the controller as a step
-towards combining model-based and model-free RL.
-</div>
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We propose to explicitly model a separate exploration policy for the task distribution in Meta-RL given the requirements on sample efficiency. Having two different policies gives more flexibility during training and makes adaptation to any specific task easier. We show that using self-supervised or supervised learning objectives for adaptation stabilizes the training process and improves performance.
+<!-- </div> -->
 
 </td>
 </tr>
