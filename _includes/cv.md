@@ -118,7 +118,7 @@ We propose to explicitly model a separate exploration policy for the task distri
 <td>
     <strong>Community Regularization of Visually-Grounded Dialog</strong><br>
     Akshat Agarwal*, <strong>Swaminathan Gurumurthy*</strong>, Vasu Sharma*, Katia Sycara, Michael Lewis<br>
-    AAMAS 2019<br>
+    AAMAS 2019 <strong>[Oral talk]</strong><br>
     
     [2] 
 [<a href='https://arxiv.org/abs/1808.04359' 
@@ -156,7 +156,7 @@ We address a fundamental problem with Neural Network based point cloud completio
 <td>
     <strong>Exploiting Data and Human Knowledge for Predicting Wildlife Poaching</strong><br>
     <strong>Swaminathan Gurumurthy*</strong>, Lantao Yu, Chenyan Zhang, Yongchao Jin, Weiping Li, Haidong Zhang, Fei Fang<br>
-    COMPASS 2019<br>
+    COMPASS 2019 <strong>[Oral talk]</strong><br>
 
     [4] 
 [<a href='https://arxiv.org/abs/1805.05356' 
@@ -246,7 +246,7 @@ On policy methods are known to exhibit stable behavior and off-policy methods ar
     <strong> Exploring interpretability in Atari Games for RL policies using Counterfactuals </strong><br>
     <strong>Swaminathan Gurumurthy</strong>, Akshat Agarwal, Prof. Katia Sycara <br>
 
-    [8] 
+    [9] 
     
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
 We aimed to understand what RL agents learn in simple games such as in Atari. We developed a GAN based method to find counterfactuals for the policies, i.e., we find small perturbations in the scene that can lead to changes in the agent action and use these to interpret agent behavior. GAN in this case is used to avoid adversarial examples and produce semantically meaningful perturbations.
