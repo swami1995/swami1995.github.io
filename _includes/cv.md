@@ -226,7 +226,7 @@ Built a package to construct a sparse map and camera trajectory using SIFT featu
 <td class="col-md-3"><img src="images/publications/explore2018.png"/> </td>
 <td>
     <strong> Off-on policy learning </strong><br>
-    <strong>Swaminathan Gurumurthy</strong>, Bhairav Mehta, Anirudh Goyal and Yoshua Bengio <br>
+    <strong>Swaminathan Gurumurthy</strong>, Bhairav Mehta, Anirudh Goyal <br>
 
     [8] 
     
