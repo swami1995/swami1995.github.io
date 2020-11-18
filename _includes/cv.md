@@ -1,11 +1,11 @@
- I am a first year PhD student at the Robotics Institute at CMU and am broadly interested in machine learning problems faced by robotics systems. I like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
+ I am a first year PhD student at the Robotics Institute at CMU advised by Prof. Zico Kolter and Prof. Zac Manchester. I am broadly interested in machine learning problems faced by robotics systems and like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">June 2020 - Present</td>
+    <td class="col-md-3">August 2020 - Present</td>
     <td>
         <strong>Ph.D. in Robotics Research</strong>
           (0.00/0.00)
