@@ -1,4 +1,4 @@
- I am a first year PhD student at the Robotics Institute at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). I am broadly interested in machine learning problems faced by robotics systems and like to seek solutions to these problems by looking at them from a more foundational lens of optimization and graphical models, sometimes taking inspiration from neuroscience and cognitive psychology. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
+ I am a final year PhD student at the Robotics Institute at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). I am broadly interested in understanding how to make optimization problems work well with machine learning models in the context of Robotics. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -94,6 +94,133 @@
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2406.07785' target='_blank'><img src="images/publications/v2v.png"/></a> </td>
+<td>
+    <strong>From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Karnik Ram, Bingqing Chen, Zachary Manchester, Zico Kolter<br>
+    CVPR 2024<br>
+    
+    [1] 
+[<a href='https://arxiv.org/abs/2406.07785' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/swami1995/V2V' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We identify/show three causes for gradient instability and gradient variance when using differentiable bundle adjustment layers: (1) flow loss interference, (2) linearization errors in the bundle adjustment (BA) layer, and (3) dependence of weight gradients on the BA residual. We then propose a simple, yet effective solution to reduce the gradient variance by using the weights predicted by the network in the inner optimization loop to weight the correspondence objective in the training problem. 
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610864' target='_blank'><img src="images/publications/vinsat.png"/></a> </td>
+<td>
+    <strong>VINSat: Solving the Lost-in-Space Problem with Visual-Inertial Navigation</strong><br>
+    Kyle McCleary, <strong>Swaminathan Gurumurthy</strong>, Paulo RM Fisch, Saral Tayal, Zachary Manchester, Brandon Lucia<br>
+    ICRA 2024<br>
+    
+    [1] 
+[<a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610864' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/CMUAbstract/VINSat' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+This paper introduces a solution to this “lost-in-space” problem that we call Visual Inertial Navigation for Satellites (VINSat). VINSat performs OD using data from an inertial measurement unit (IMU) and a low-cost RGB camera. We train an object detector to detect landmarks on the earth's surface and then solve a batch optimization problem for state estimation of the satellite given the detected landmarks. 
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2311.18056' target='_blank'><img src="images/publications/reluqp.png"/></a> </td>
+<td>
+    <strong>ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control</strong><br>
+    Arun L. Bishop*, John Z. Zhang*, <strong>Swaminathan Gurumurthy</strong>, Kevin Tracy, Zachary Manchester<br>
+    ICRA 2024<br>
+    
+    [1] 
+[<a href='https://arxiv.org/abs/2311.18056' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/RoboticExplorationLab/ReLUQP-py' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We present ReLU-QP, a GPU-accelerated solver for quadratic programs (QPs) that is capable of solving high-dimensional control problems at real-time rates. ReLU-QP is derived by exactly reformulating the Alternating Direction Method of Multipliers (ADMM) algorithm for solving QPs as a deep, weight-tied neural network with rectified linear unit (ReLU) activations. This reformulation enables the deployment of ReLU-QP on GPUs using standard machine-learning toolboxes.
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2304.14389' target='_blank'><img src="images/publications/slomo.png"/></a> </td>
+<td>
+    <strong>SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos</strong><br>
+    John Z. Zhang, Shuo Yang, Gengshan Yang, Arun L. Bishop, </strong>Swaminathan Gurumurthy</strong>, Deva Ramanan, Zachary Manchester<br>
+    RA-L 2023<br>
+    
+    [1] 
+[<a href='https://arxiv.org/pdf/2304.14389' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/johnzhang3/SLoMo' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We present SLoMo: a first-of-its-kind framework for transferring skilled motions from casually captured "in the wild" video footage of humans and animals to legged robots. SLoMo works in three stages: 1. synthesize a physically plausible reconstructed key-point trajectory from monocular videos; 2. optimize a dynamically feasible reference trajectory for the robot offline that includes body and foot motion, as well as contact sequences that closely tracks the key points; 3. track the reference trajectory online using a general-purpose model-predictive controller on robot hardware
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://proceedings.mlr.press/v211/gurumurthy23b.html' target='_blank'><img src="images/publications/deepilc.png"/></a> </td>
+<td>
+    <strong>Deep Off-Policy Iterative Learning Control</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Zico Kolter, Zachary Manchester<br>
+    L4DC 2023<br>
+    
+    [1] 
+[<a href='https://proceedings.mlr.press/v211/gurumurthy23b/gurumurthy23b.pdf' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/RoboticExplorationLab/Deep-ILC' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+The paper proposes an update equation for the value-function gradients to speed up actor critic methods in reinforcement learning. This update is inspired by iterative learning control (ILC) approaches that use approximate simulator gradients to speed up optimization. The value-gradient update leads to a significant improvement in sample efficiency and sometimes better performance both when learning from scratch or fine-tuning a pre-trained policy in a new environment.
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://proceedings.mlr.press/v211/gurumurthy23a.html' target='_blank'><img src="images/publications/deepilc.png"/></a> </td>
+<td>
+    <strong>Practical Critic Gradient based Actor Critic for On-Policy Reinforcement Learning</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Zachary Manchester, Zico Kolter<br>
+    L4DC 2023<br>
+    
+    [1] 
+[<a href='https://proceedings.mlr.press/v211/gurumurthy23a/gurumurthy23a.pdf' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/RoboticExplorationLab/CGAC' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+In this paper, we present a different class of on-policy algorithms based on SARSA, which estimate the policy gradient using the critic-action gradients. We show that they are better suited than existing baselines (like PPO) especially when using highly parallelizable simulators. We observe that the critic gradient based on-policy method (CGAC) consistently achieves higher episode returns. Furthermore, in environments with high dimensional action space, CGAC also trains much faster (in wall-clock time) than the corresponding baselines.
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2111.13236' target='_blank'><img src="images/publications/jiio.png"/></a> </td>
+<td>
+    <strong>Joint inference and input optimization in equilibrium networks</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Shaojie Bai, Zachary Manchester, Zico Kolter<br>
+    Neurips 2021<br>
+    
+    [1] 
+[<a href='https://arxiv.org/pdf/2111.13236' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/locuslab/JIIO-DEQ' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We propose to use Deep Equilibrium Models to solve inverse problems efficiently by exploiting the iterative nature of the DEQ fixed point process. We simultaneously solve for the DEQ fixed point and optimize over network inputs, all within a single augmented DEQ model that jointly encodes both the original network and the optimization process. Indeed, the procedure is fast enough that it allows us to efficiently train DEQ models for tasks traditionally relying on an inner optimization loop.
+<!-- </div> -->
+
+</td>
+</tr>
+
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/1911.04024' target='_blank'><img src="images/publications/mame2019.png"/></a> </td>
 <td>
