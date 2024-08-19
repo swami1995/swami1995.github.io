@@ -1,4 +1,4 @@
- I am a final year PhD student at the Robotics Institute at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). I am broadly interested in understanding how to make optimization problems work well with machine learning models in the context of Robotics. I previously finished my Masters in Robotics from <b>Robotics Institute</b> and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
+ I am a final year PhD student at the Robotics Institute at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). I am broadly interested in understanding how to make optimization problems work well with machine learning models in the context of various problems in robotics such as inverse problems, optimal control, 3D reconstruction, post estimation etc. I previously finished my Masters in Robotics from Robotics Institute and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -153,7 +153,7 @@ We present ReLU-QP, a GPU-accelerated solver for quadratic programs (QPs) that i
 <td class="col-md-3"><a href='https://arxiv.org/abs/2304.14389' target='_blank'><img src="images/publications/slomo.png"/></a> </td>
 <td>
     <strong>SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos</strong><br>
-    John Z. Zhang, Shuo Yang, Gengshan Yang, Arun L. Bishop, </strong>Swaminathan Gurumurthy</strong>, Deva Ramanan, Zachary Manchester<br>
+    John Z. Zhang, Shuo Yang, Gengshan Yang, Arun L. Bishop, <strong>Swaminathan Gurumurthy</strong>, Deva Ramanan, Zachary Manchester<br>
     RA-L 2023<br>
     
     [1] 
