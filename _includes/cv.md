@@ -150,7 +150,14 @@ We co-design and implement a market based reputation system and the correspondin
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Publications and Selected Projects <i class="fa fa-code-fork" aria-hidden="true"></i>
+
+<a href="https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en&oi=sra" class="btn btn-primary" style="padding: 0.3em;">
+  <i class="ai ai-google-scholar"></i> Google Scholar
+</a>
+
 <table class="table table-hover">
+
+
 <tr>
 <td class="col-md-3"><a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' target='_blank'><img src="images/publications/trust_markets.png"/></a> </td>
 <td>
@@ -454,9 +461,6 @@ Built a package to construct a sparse map and camera trajectory using SIFT featu
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
 On policy methods are known to exhibit stable behavior and off-policy methods are known to be sample efficient. The goal here was to get the best of both worlds. We first developed a self-imitation based method to learn from a diverse set of exploratory policies which perform coordinated exploration. We also tried a meta-learning objective to ensure that the off-policy updates to the policies are aligned with future on-policy updates. This leads to more stable training but fails to reach peak performance in most continuous control tasks we tested on.
 <!-- </div> -->
-
-</td>
-</tr>
 
 </td>
 </tr>
