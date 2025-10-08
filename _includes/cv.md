@@ -101,7 +101,7 @@ I also carely deeply about ensuring that we build AI that benefits humanity and 
     
     [1] 
 [<a href='https://swaminathangurumurthy805874.substack.com/p/economic-trust-and-governance-infrastructure' 
-    target='_blank'>pdf</a>] <br>
+    target='_blank'>Blog</a>] <br>
     
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
 We discuss the economic and governance tools and frameworks required for the emerging AI-driven internet. We propose various tools and mechanisms to this end such as multi-sided reputation markets, agentic marketplaces, attribution-led pricing, auction-first markets, and a framework for polycentric governance and the tools required.
@@ -120,7 +120,7 @@ We discuss the economic and governance tools and frameworks required for the eme
     
     [1] 
 [<a href='https://swaminathangurumurthy805874.substack.com/p/meta-learning-the-next-scaling-law' 
-    target='_blank'>pdf</a>] <br>
+    target='_blank'>Blog</a>] <br>
     
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
 While data scaling and test-time compute built today's AI systems, the next generation will be defined by two new scaling laws hiding in plain sight: parallel search and meta-learning. This article explores how training models to perform native parallel reasoning and to reliably fine-tune themselves on specialized tasks could transform ad-hoc techniques into capital-absorbing scaling laws with predictable performance gains and qualititively new capabilities—from static knowledge artifacts to dynamic systems capable of autonomous exploration and specialized adaptation. 
@@ -138,7 +138,7 @@ While data scaling and test-time compute built today's AI systems, the next gene
     
     [1] 
 [<a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' 
-    target='_blank'>pdf</a>] <br>
+    target='_blank'>Blog</a>] <br>
     
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
 We co-design and implement a market based reputation system and the corresponding scaffolding for LLM agents. The reputation system serves as a dynamic alignment system for LLM agent platforms where different agent providers compute for better reputation and trust. We further investigate various elements of the LLM scaffolding that are important including, computing iterated equilibria to reach faster and stable equilibria, using optimization based investing as tools for the LLMs and bayesian averaging of the LLM preferences over time to ensure the stability of the preferences and the equilibrium. 
