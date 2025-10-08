@@ -1,4 +1,6 @@
- I am a final year PhD student at the Robotics Institute at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). I am broadly interested in understanding how to make optimization problems work well with machine learning models in the context of various problems in robotics such as inverse problems, optimal control, 3D reconstruction, post estimation etc. I previously finished my Masters in Robotics from Robotics Institute and was advised by [Prof. Katia Sycara](https://www.ri.cmu.edu/ri-faculty/katia-sycara/). My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). I also recently interned at [Nuro](https://nuro.ai/), self-driving car startup, where I worked on developing a differentiable planning pipeline.
+ I'm a final year PhD student at CMU advised by [Prof. Zico Kolter](http://zicokolter.com/) and [Prof. Zac Manchester](http://roboticexplorationlab.org/). Developing RL and iterated inference based reasoning algorithms for deep networks across applications spanning multi-agent LLMs, robotic control, 3D vision, generative models and differentiable solvers. Published at NeurIPS, CVPR, CoRL, ICRA, AAMAS. Blending deep algorithmic understanding with pragmatic engineering to deliver robust, reliable systems. My publications and descriptions of some selected projects are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=do8COWIAAAAJ&hl=en). 
+
+I also carely deeply about ensuring that we build AI that benefits humanity and ensuring our social infrastructure can adapt to it. I've written various blogs discussing my thoughts on various topics, from 'the economic and governance infrastructure for the agentic web' to 'where the next scaling laws for LLMs will come from'. Follow my [Blog](https://swaminathangurumurthy805874.substack.com/profile/posts).
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -86,6 +88,66 @@
 </tr>
 </table> -->
 
+## <i class="fa fa-chevron-right"></i> Blog Posts and Research Vision <i class="fa fa-code-fork" aria-hidden="true"></i>
+
+<table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://swaminathangurumurthy805874.substack.com/p/economic-trust-and-governance-infrastructure' target='_blank'><img src="images/publications/agentic_web.png"/></a> </td>
+<td>
+    <strong>Scaffolding of Trust : Reimagining Economics and Governance for the Agentic Web</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, J Zico Kolter, Zachary Manchester<br>
+    To be submitted to ICLR 2026 Blogs<br>
+    
+    [1] 
+[<a href='https://swaminathangurumurthy805874.substack.com/p/economic-trust-and-governance-infrastructure' 
+    target='_blank'>pdf</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We discuss the economic and governance tools and frameworks required for the emerging AI-driven internet. We propose various tools and mechanisms to this end such as multi-sided reputation markets, agentic marketplaces, attribution-led pricing, auction-first markets, and a framework for polycentric governance and the tools required.
+<!-- </div> -->
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><a href='https://swaminathangurumurthy805874.substack.com/p/meta-learning-the-next-scaling-law' target='_blank'><img src="images/publications/meta-learning.png"/></a> </td>
+<td>
+    <strong>Meta-Learning and Learning to Search : The Next Scaling Laws </strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, J Zico Kolter, Zachary Manchester<br>
+    To be submitted to ICLR 2026 Blogs<br>
+    
+    [1] 
+[<a href='https://swaminathangurumurthy805874.substack.com/p/meta-learning-the-next-scaling-law' 
+    target='_blank'>pdf</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+While data scaling and test-time compute built today's AI systems, the next generation will be defined by two new scaling laws hiding in plain sight: parallel search and meta-learning. This article explores how training models to perform native parallel reasoning and to reliably fine-tune themselves on specialized tasks could transform ad-hoc techniques into capital-absorbing scaling laws with predictable performance gains and qualititively new capabilities—from static knowledge artifacts to dynamic systems capable of autonomous exploration and specialized adaptation. 
+<!-- </div> -->
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' target='_blank'><img src="images/publications/trust_markets.png"/></a> </td>
+<td>
+    <strong>Trust Markets : Market based Reputation System for Multi-Agent LLM Platforms</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, J Zico Kolter, Zachary Manchester<br>
+    In Progress (ICML 2026)<br>
+    
+    [1] 
+[<a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' 
+    target='_blank'>pdf</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We co-design and implement a market based reputation system and the corresponding scaffolding for LLM agents. The reputation system serves as a dynamic alignment system for LLM agent platforms where different agent providers compute for better reputation and trust. We further investigate various elements of the LLM scaffolding that are important including, computing iterated equilibria to reach faster and stable equilibria, using optimization based investing as tools for the LLMs and bayesian averaging of the LLM preferences over time to ensure the stability of the preferences and the equilibrium. 
+<!-- </div> -->
+
+</td>
+</tr>
+
+</table>
 
 ## <i class="fa fa-chevron-right"></i> Publications and Selected Projects <i class="fa fa-code-fork" aria-hidden="true"></i>
 
@@ -94,6 +156,45 @@
 </a>
 
 <table class="table table-hover">
+
+
+<tr>
+<td class="col-md-3"><a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' target='_blank'><img src="images/publications/trust_markets.png"/></a> </td>
+<td>
+    <strong>Trust Markets : Market based Reputation System for Multi-Agent LLM Platforms</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, J Zico Kolter, Zachary Manchester<br>
+    In Progress (ICML 2026)<br>
+    
+    [1] 
+[<a href='https://swaminathangurumurthy805874.substack.com/p/managing-trust-in-llm-agent-platforms' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/swami1995/LLM_MD' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We co-design and implement a market based reputation system and the corresponding scaffolding for LLM agents. The reputation system serves as a dynamic alignment system for LLM agent platforms where different agent providers compute for better reputation and trust. We further investigate various elements of the LLM scaffolding that are important including, computing iterated equilibria to reach faster and stable equilibria, using optimization based investing as tools for the LLMs and bayesian averaging of the LLM preferences over time to ensure the stability of the preferences and the equilibrium. 
+<!-- </div> -->
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><a href='https://openreview.net/forum?id=zQXurgHUVX' target='_blank'><img src="images/publications/deq-mpc.png"/></a> </td>
+<td>
+    <strong>DEQ-MPC : Deep Equilibrium Model Predictive Control</strong><br>
+    <strong>Swaminathan Gurumurthy</strong>, Khai Nguyen, Arun L Bishop, J Zico Kolter, Zachary Manchester<br>
+    CoRL 2025<br>
+    
+    [1] 
+[<a href='https://openreview.net/forum?id=zQXurgHUVX' 
+    target='_blank'>pdf</a>] [<a href='https://github.com/swami1995/DEQ-MPC' target='_blank'>code</a>] <br>
+    
+<!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
+We propose a novel approach that co-develops the solver and architecture unifying the optimization solver and network inference problems. Specifically, we formulate this as a \textit{joint fixed-point problem} over the coupled network outputs and necessary conditions of the optimization problem. Through extensive ablations in various robotic control tasks, we demonstrate that our approach results in richer representations and more stable training, while naturally accommodating warm starting, a key requirement for optimal control problems.
+<!-- </div> -->
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2406.07785' target='_blank'><img src="images/publications/v2v.png"/></a> </td>
@@ -107,7 +208,7 @@
     target='_blank'>pdf</a>] [<a href='https://github.com/swami1995/V2V' target='_blank'>code</a>] <br>
     
 <!-- <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1"> -->
-We identify/show three causes for gradient instability and gradient variance when using differentiable bundle adjustment layers: (1) flow loss interference, (2) linearization errors in the bundle adjustment (BA) layer, and (3) dependence of weight gradients on the BA residual. We then propose a simple, yet effective solution to reduce the gradient variance by using the weights predicted by the network in the inner optimization loop to weight the correspondence objective in the training problem. 
+We identify/show three causes for gradient instability and gradient variance when using differentiable bundle adjustment layers within iterative refinement models : (1) flow loss interference, (2) linearization errors in the bundle adjustment (BA) layer, and (3) dependence of weight gradients on the BA residual. We then propose a simple, yet effective solution to reduce the gradient variance by using the weights predicted by the network in the inner optimization loop to weight the correspondence objective in the training problem. 
 <!-- </div> -->
 
 </td>
